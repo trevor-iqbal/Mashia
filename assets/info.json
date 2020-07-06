@@ -1,0 +1,58 @@
+{
+    "info":[
+        {
+            "breed": "Cholistani",
+            "type": "Milch",
+            "areas": "Cholistan district",
+            "weight": "470Kg Male, 341Kg Female",
+            "milk yeild": "1471",
+            "lactation": "285",
+            "image":"Cholistani.png"
+        },
+        {
+            "breed": "Red Sindhi",
+            "type": "Milch",
+            "areas": "Western Sindh and Lasbela in Balochistan",
+            "weight": "530Kg Male, 325Kg Female",
+            "milk yeild": "1675",
+            "lactation": "270",
+            "image":"Red Sindhi.png"
+        },
+        {
+            "breed": "Australian",
+            "type": "Milch",
+            "areas": "Australia",
+            "weight": "520Kg Male, 420Kg Female",
+            "milk yeild": "1575",
+            "lactation": "290",
+            "image":"Australian.png"
+        },
+        {
+            "breed": "Lohani",
+            "type": "Draught",
+            "areas": "Loralai and D.I. Khan",
+            "weight": "315Kg Male, 253Kg Female",
+            "milk yeild": "613",
+            "lactation": "295",
+            "image": "Lohani.png"
+        },
+        {
+            "breed": "Tharparker",
+            "type": "Dual",
+            "areas": "Thatparkar and surrounding areas",
+            "weight": "470 Kg Male, 285Kg Female",
+            "milk yeild": "1584",
+            "lactation": "270",
+            "image":"Tharparker.png"
+        },
+        {
+            "breed": "Rojhan",
+            "type": "Milch",
+            "areas": "Attock, Rawalpindi, Chakwal and Jhelum",
+            "weight": "412Kg Male, 285Kg Female",
+            "milk yeild": "800",
+            "lactation": "204",
+            "image":"Rojhan.png"
+        }
+    ]
+}
